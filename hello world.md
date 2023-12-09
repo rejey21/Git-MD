@@ -23,3 +23,5 @@
 ```sh
 cd c:\folder_name
 ```
+
+## Инструкция к Git
