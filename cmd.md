@@ -4,3 +4,8 @@
 ```sh
 del <filename>
 ```
+
+Команда смены дериктории.
+```sh
+cd c:\folder_name
+```
