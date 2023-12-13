@@ -199,6 +199,17 @@ git tag 'tag_name' 'branch_name'
 git tag -l 'tag_name'
 ```
 
+Если нужно узнать насколько мы далеко от ближайшего тега, то есть команда - **describe**.
+```sh
+git describe 'ref'
+
+Например:
+
+git describe main
+```
+
+**ref** - это что-либо, что указывает на конкретный *commit* (название ветки).  
+
 ## Как сделать pull request
 
 * Делаем fork репозитория
