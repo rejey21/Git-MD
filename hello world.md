@@ -114,3 +114,9 @@ git branch -d 'branch_name'
 ```sh
 git merge 'branch_name'
 ```
+
+Для того, чтобы скопировать репозиторий с GitHub неоходимпо написать следующую команду - *git clone*.
+
+```sh
+git clone 'ссылка на репозиторий'
+```
